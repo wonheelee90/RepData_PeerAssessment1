@@ -1,6 +1,6 @@
 ---
 title: "Reproducible research - Course Project 1"
-output: html_document
+output: md_document
 ---
 
 # Loading & preprocessing data
